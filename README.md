@@ -1,10 +1,10 @@
 # bmi
 
-A new Flutter project.
+A New Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Simple Application using DART and Flutter to calculate the BMI.
 
 A few resources to get you started if this is your first Flutter project:
 
